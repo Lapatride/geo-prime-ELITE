@@ -2,7 +2,7 @@
 Infrastructure IA citation-ready (RAG + LoRA + fallback) pour moteurs génératifs
 # GEO‑Prime ELITE – Infrastructure IA citation-ready
 
-**Version initiale – Date de publication : [À remplir, ex. 2025‑07‑10]**
+**Version initiale – Date de publication : [2025‑07‑10]**
 
 ---
 
