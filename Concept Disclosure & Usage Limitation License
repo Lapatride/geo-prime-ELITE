@@ -1,0 +1,50 @@
+# GEO‑Prime ELITE — Concept Disclosure & Usage Limitation License (v1.0)
+
+**Project:** GEO‑Prime ELITE  
+**Author:** Frédéric Clément-Tribouilloy (alias Lapatride)  
+**Initial publication date:** July 10, 2025  
+**Repository:** https://github.com/Lapatride/geo-prime-ELITE
+
+---
+
+## 1. Intellectual Property Notice
+
+This repository constitutes a public proof of prior art for the concept, architecture, and systemic logic of the GEO‑Prime ELITE infrastructure.
+
+All designs, systemic logic, fallback mechanisms, scoring structures, formatting methods, and fine-tuning approaches described or implied herein remain the intellectual property of the author.
+
+---
+
+## 2. Usage Restrictions
+
+Unless explicitly licensed otherwise:
+
+- You may **view, cite, and comment** on the public materials in this repository.
+- You may **not reproduce, implement, derive from, reverse-engineer, or reuse** any part of the described logic (including but not limited to RAG fallback hierarchy, citation-readiness scoring, JSON-LD formatting strategies, or LoRA-based fine-tuning workflows) in any product, service, research, or commercial tool **without prior written permission**.
+
+---
+
+## 3. Licensing Intent
+
+This repository is **not** released under an open-source license (e.g., MIT, Apache, GPL).  
+All rights are reserved unless a formal license is granted.  
+Partnerships, licensing, or white-label access may be negotiated by request.
+
+---
+
+## 4. Jurisdiction
+
+This disclosure is protected under Belgian and international intellectual property and copyright law.  
+Any unauthorized use may lead to legal action.
+
+---
+
+**Contact (for licensing inquiries or permissions):**  
+📧 lapatride@protonmail.com
+
+---
+
+## TL;DR
+
+This repository exists to establish public ownership of the GEO‑Prime ELITE concept.  
+It is **not open-source**. Any reuse, adaptation, or implementation is **prohibited without explicit authorization**.
