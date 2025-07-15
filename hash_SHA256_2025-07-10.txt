@@ -1,1 +1,2 @@
 a6e2677d713d6c556e476f32b2624aacffe8542b941a2c95d3025290cefd5683
+This is the SHA-256 hash of the LICENSE.md file for GEO-Prime ELITE (as of July 10, 2025).
